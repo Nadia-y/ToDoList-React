@@ -1,0 +1,45 @@
+.title{
+    font-size:45px;
+   text-align: center;
+   
+}
+.p{
+    font-size:25px;
+    margin-left: 40px;
+   
+}
+.input{
+
+    padding: 10px;
+    outline: none;
+   
+    height: 50px;
+    border-radius: 25px;
+    width: 400px;
+    margin: 50px 20px;
+   
+    font-size: 22px;
+}
+.add{
+    outline: none;
+    border: none;
+    height: 50px;
+    border-radius: 25px;
+    width: 50px;
+    background-color: lime;
+    color: white;
+    cursor: pointer;
+ 
+    margin: 10px;
+}
+.headline{
+  
+    outline: none;
+  
+    color: white;
+    font-size: 18px;
+    width: 300px;
+}
+.list{
+    width: 650px;
+}

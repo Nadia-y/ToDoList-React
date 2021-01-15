@@ -1,0 +1,7 @@
+.done{
+    text-decoration: line-through;
+}
+.add{
+    border:2px solid red;
+    width: 250px;
+}
